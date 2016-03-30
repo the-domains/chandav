@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: ChandaV
 opengraph:
   image: null
   type: null
@@ -20,21 +18,23 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.8574468
+  saturation: 1
   brandStrength: 0.009199630236253142
-  lightness: 0.4957447
+  lightness: 0.587234
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  rhythmicContrast: 0.5085106
+  rhythmicContrast: 0.7702128
 typography_spectrum: 0.8106383
+layout_spectrum: 1
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 1
-favicon: null
-name: ChandaV
+analytics:
+  twitter: null
+  google: null
+  facebook: null
