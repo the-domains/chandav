@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[ChandaV]]></title>
-        <description><![CDATA[ChandaV]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Chanda V Coaching]]></title>
+        <description><![CDATA[Chanda V Coaching]]></description>
+        <link>https://thegrid.ai/chandav/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 18:09:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 20 May 2016 12:06:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chandav/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Modern Goddess]]></title>
+            <description><![CDATA[<article><h1>Modern Goddess</h1><p>The most self destructive thing I have come across is fear. The fear of spiders, germs, clowns, heights, wide open spaces, getting hurt physically or emotionally, failing, losing something, dying. You name it and there is someone out there with a fear of it.</p><img src="https://2.bp.blogspot.com/-ETfZmKbrCqg/VU7gPbphFKI/AAAAAAAACYw/j6__BOMICTo/w1200-h630-p-nu/MarilynMonroe13.jpg"></article>]]></description>
+            <link>http://mymoderngoddess.blogspot.com/2016/02/fear-is-stupid-and-so-are-regrets.html?m=1</link>
+            <guid isPermaLink="false">33567aae-95bd-457b-ab8b-196d76de3cce</guid>
+            <pubDate>Fri, 20 May 2016 12:05:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Move chick, Get our your way!]]></title>
-            <description><![CDATA[<article><h1>Move chick, Get our your way!</h1><p>"If you just get out of your own way it's amazing what will come to you" 
-~Laird Hamilton~ </p></article>]]></description>
-            <link>undefinedmove-chick-get-our-your-way/index.html</link>
+            <description><![CDATA[<p>"If you just get out of your own way it's amazing what will come to you" 
+~Laird Hamilton~ </p>]]></description>
+            <link>https://thegrid.ai/chandav/move-chick-get-our-your-way/index.html</link>
             <guid isPermaLink="false">c0435de3-e3e4-4e1a-826b-c2c4a5bcb7d6</guid>
             <pubDate>Wed, 30 Mar 2016 18:09:36 GMT</pubDate>
         </item>
