@@ -1,3 +1,4 @@
+favicon: null
 name: ChandaV
 opengraph:
   image: null
@@ -9,32 +10,31 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
   saturation: 1
   brandStrength: 0.009199630236253142
-  lightness: 0.4829787
+  rhythmicContrast: 0.4574468
   brandColors:
     - '#000000'
     - '#FFFFFF'
     - '#333333'
     - '#7D7D7D'
     - '#C0C0C1'
-  rhythmicContrast: 0.4574468
+  lightness: 0.4829787
 typography_spectrum: 0.8106383
 cta:
   bucket: null
   version: null
   domain: null
+layout_spectrum: 0.6170213
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-layout_spectrum: 0.993617
